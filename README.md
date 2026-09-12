@@ -57,7 +57,7 @@ environment wins over the file.
 
 | Variable | Default | What it does |
 |---|---|---|
-| `LOTTERY_PLACE` | `Virginia` | Jurisdiction used when `--place` is omitted, and by a window with nothing recorded yet. |
+| `LOTTERY_PLACE` | `Florida` | Jurisdiction used when `--place` is omitted, and by a window with nothing recorded yet. |
 | `LOTTERY_GMAIL` | — | Gmail account that sends alerts. |
 | `LOTTERY_GMAIL_APP_PASSWORD` | — | A Gmail [app password](https://myaccount.google.com/apppasswords), 16 characters. Requires 2-Step Verification; your normal password will not work. |
 | `LOTTERY_SMS_TO` | — | Where alerts go: an email address, or a carrier gateway like `5551234567@vtext.com` for a text. |
