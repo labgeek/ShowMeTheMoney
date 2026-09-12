@@ -15,6 +15,9 @@ and runs windowless for scheduled email alerts.
 Figures come from the [usamega.com](https://www.usamega.com) jackpot analysis pages,
 which ask to be credited when their numbers are reused.
 
+<img width="1001" height="512" alt="image" src="https://github.com/user-attachments/assets/bed34044-cae1-48d8-8356-bb353d4db71e" />
+
+
 ## Install
 
 Python 3.11+, two packages, plus the browser Playwright drives:
