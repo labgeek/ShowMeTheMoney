@@ -76,7 +76,6 @@ backup, or screen share.
 | `test_statisticallydoomed.py` | Offline self-check — `python test_statisticallydoomed.py` |
 | `statisticallydoomed.db` | Recorded checks, created on first use |
 | `.env` | Your configuration and credentials |
-| `old/` | The original single-purpose scripts this replaces |
 
 ## Limits
 
